@@ -3,6 +3,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,bianyuan.xyz
 DOMAIN-SUFFIX,www.yjys.me
+DOMAIN-SUFFIX,chatgpt.com,\U0001F916 AI
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
